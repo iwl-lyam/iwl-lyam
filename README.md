@@ -1,5 +1,5 @@
 # iwl-lyam
-- Technical Systems Lead (managing auxillary systems, such as website, moderation tools, etc.) @ All Change
+- Executive (managing auxillary systems, such as website, moderation tools, etc.) @ All Change
 - World record for amount of repositories created per month
 - Make the most random software
 - I use JetBrains WebStorm most frequenctly (but also use the other JetBrains IDEs)
